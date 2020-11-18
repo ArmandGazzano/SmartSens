@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SmartSens</string>
+    <string name="smartsens">SMARTSENS</string>
+    <string name="param_tres">Paramètres</string>
+    <string name="simuler_activation">Simuler une activation</string>
+    <string name="connexion_bluetooth">Connexion bluetooth</string>
+    <string name="statut_bluetooth">Statut Bluetooth :</string>
+    <string name="statut_smartsens">Statut SmartSens :</string>
+    <string name="conn_ct">Connécté</string>
+    <string name="d_conn_ct">Déconnécté</string>
+    <string name="innactif">Innactif</string>
+    <string name="actif">Actif</string>
+</resources>
